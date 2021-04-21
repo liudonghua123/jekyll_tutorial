@@ -1,4 +1,4 @@
-baseurl: 'jekyll_tutorial'
+baseurl: /jekyll_tutorial
 
 collections:
   authors:
